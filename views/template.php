@@ -59,6 +59,7 @@
           $allowedRoutes = [
             'home',
             'logout',
+            'centers',
           ];
 
           if (in_array($route, $allowedRoutes)) {
